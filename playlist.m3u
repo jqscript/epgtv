@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz
 #EXTINF:0 tvg-rec="0",РБК 50
 #EXTGRP:новости
 http://xtet5wgc.ukminlt.fun/iptv/W5C593D997W253/10029/index.m3u
