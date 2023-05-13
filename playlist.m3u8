@@ -1,3 +1,10 @@
-#EXTM3U x-tvg-url="http://m3u-ip.tv/demo-epg.php" 
-#EXTINF:-1 tvg-id="QVC 2 HD" tvg-name="QVC2Germany.de1" status="timeout" group-title="Shopping",QVC Plus https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8 
-#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVCGermany.de2" status="timeout" group-title="Shopping",QVC Germany https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8 
+#EXTM3U 
+#EXTINF:0 tvg-rec="0" tvg-name="РБК 50" tvg-logo="https://picon.ml/rbk.png" 
+#EXTGRP:новости 
+http://xtet5wgc.ukminlt.fun/iptv/W5C593D997W253/10029/index.m3u 
+#EXTINF:0 tvg-rec="0" tvg-name="BBC First HD" tvg-logo="https://picon.ml/bbc.png" 
+#EXTGRP:новости 
+http://xtet5wgc.ukminlt.fun/iptv/W5C593D997W253/19181/index.m3u 
+#EXTINF:0 tvg-rec="0" tvg-name="BBC Parliament" tvg-logo="https://picon.ml/bbc.png" 
+#EXTGRP:новости 
+http://xtet5wgc.ukminlt.fun/iptv/W5C593D997W253/19182/index.m3u 
