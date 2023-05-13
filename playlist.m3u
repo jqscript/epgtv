@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="http://m3u-ip.tv/demo-epg.php" 
-#EXTINF:-1 tvg-id="QVC 2 HD" tvg-name="QVC2Germany.de" status="timeout" group-title="Shopping",QVC Plus https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8 
-#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVCGermany.de" status="timeout" group-title="Shopping",QVC Germany https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8 
+#EXTINF:-1 tvg-id="QVC 2 HD" tvg-name="QVC2Germany.de1" status="timeout" group-title="Shopping",QVC Plus https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8 
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVCGermany.de2" status="timeout" group-title="Shopping",QVC Germany https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8 
